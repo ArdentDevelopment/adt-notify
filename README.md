@@ -2,7 +2,7 @@
 
 Simple notification system for FiveM.
 
-[preview](https://www.youtube.com/watch?v=r5dcQPOyKKQ)
+[preview](https://www.youtube.com/watch?v=2uniZcKJW-g)
 
 ## Installation
 
