@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Ardent Development'
 description 'ADT Notification System'
-version '1.0.0'
+version '0.1'
 
 ui_page 'ui/index.html'
 
@@ -27,3 +27,4 @@ server_scripts {
 }
 
 export 'Notify'
+
