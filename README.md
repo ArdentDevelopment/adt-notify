@@ -12,7 +12,7 @@ Simple notification system for FiveM.
 
 ## Docs
 
-[Docs](www.ardentdev.shop/docs)
+www.ardentdev.shop/docs
 
 
 ## Support
